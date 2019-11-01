@@ -1,0 +1,43 @@
+nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        background: ghostwhite;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+	background-color: lightgreen;
+}
+
+@font-face {
+    font-family: 'walk_around_the_blockregular';
+    src: url('walk-around-the-block-webfont.woff2') format('woff2'),
+         url('walk-around-the-block-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: "curly_joe";
+	src: url("css/font/CURJTRIAL.ttf");
+}
+
+h1, h2{
+    font-family: 'walk_around_the_blockregular', regular;
+	font-weight:bold;
+	font-style:normal;
+	text-align: center;
+	color: DarkBlue;
+}
+
+
+
+p{
+    font-family: "curly_joe", regular;
+	border-bottom-style: dotted;
+	border-color: DarkBlue;	
+	margin-left: 141px;
+    margin-right: 141px;
+}
