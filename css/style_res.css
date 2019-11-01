@@ -36,19 +36,7 @@ h3 {
     margin-right: 141px;
 }
 
-p {
-	font-family: Arial Narrow, sans-serif;
-	margin-left: 141px;	
-    margin-right: 141px;
-}
-
-ul {
-	font-family: Arial Narrow, sans-serif;
-	margin-left: 141px;	
-    margin-right: 141px;
-}
-
-h4 {
+p, ul, h4 {
 	font-family: Arial Narrow, sans-serif;
 	margin-left: 141px;	
     margin-right: 141px;
