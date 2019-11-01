@@ -17,7 +17,7 @@ div {
 	border-style: double;
 	border-style: inset;
 	margin-left: 400px;	
-    margin-right: 400px;
+    	margin-right: 400px;
 	background: wheat;
 }
 
@@ -27,31 +27,31 @@ h2 {
 	border-top-style: ridge;
 	border-color: #ebcb7a;
 	margin-left: 141px;
-    margin-right: 141px;
+    	margin-right: 141px;
 }
 
 h3 {
 	font-family: Trebuchet MS, sans-serif;
 	margin-left: 141px;	
-    margin-right: 141px;
+    	margin-right: 141px;
 }
 
 p {
 	font-family: Arial Narrow, sans-serif;
 	margin-left: 141px;	
-    margin-right: 141px;
+    	margin-right: 141px;
 }
 
 ul {
 	font-family: Arial Narrow, sans-serif;
 	margin-left: 141px;	
-    margin-right: 141px;
+    	margin-right: 141px;
 }
 
 h4 {
 	font-family: Arial Narrow, sans-serif;
 	margin-left: 141px;	
-    margin-right: 141px;
+    	margin-right: 141px;
 }
 
 table {
