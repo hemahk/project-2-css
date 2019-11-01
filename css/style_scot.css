@@ -19,11 +19,6 @@ body {
     font-style: normal;
 }
 
-@font-face {
-	font-family: "curly_joe";
-	src: url("css/font/CURJTRIAL.ttf");
-}
-
 h1, h2{
     font-family: 'walk_around_the_blockregular', regular;
 	font-weight:bold;
@@ -32,12 +27,14 @@ h1, h2{
 	color: DarkBlue;
 }
 
-
-
-p{
-    font-family: "curly_joe", regular;
-	border-bottom-style: dotted;
-	border-color: DarkBlue;	
-	margin-left: 141px;
-    margin-right: 141px;
+table, th, td {
+    width: 90%;
+    text-align: center;	
+	color: DarkBlue;
+	font-family: Arial Narrow, sans-serif;
+	page-break-after: auto;
+    margin-left:5%; 
+    margin-right:5%;
+	border-style: dotted;
+	border-color: Yellow;
 }
