@@ -1,7 +1,7 @@
 nav ul {
         list-style-type: none;
         margin: 0;
-        padding: 0;
+        padding: 0 auto;
         background: ghostwhite;
         text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -27,22 +27,22 @@ p {
 	margin-left: 141px;	
 	padding-right: 141px;
 	text-align: justify;
-	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 ul {
-	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	margin-left: 141px;
 	padding-right: 141px;
 }
 
 div {
-	text-align: center;
+	text-align:center;
 }
 
 table {
 	width: 1000px;
-	text-align: center;
+	text-align:center;
 	margin-left:auto; 
 	margin-right:auto;
 }
