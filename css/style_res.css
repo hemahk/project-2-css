@@ -1,7 +1,7 @@
 nav ul {
         list-style-type: none;
-        margin: 0 auto;
-        padding: 0 auto;
+        margin: 0;
+        padding: 0;
         background: ghostwhite;
         text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -23,7 +23,7 @@ div {
 
 h2 {
 	text-align: center;
-	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-family: ComicSansMS, ComicSans, cursive;
 	border-top-style: ridge;
 	border-color: #ebcb7a;
 	margin-left: 15%;
@@ -31,13 +31,13 @@ h2 {
 }
 
 h3 {
-	font-family: Trebuchet MS, sans-serif;
+	font-family: TrebuchetMS, sans-serif;
 	margin-left: 15%;	
     	margin-right: 15%;
 }
 
 p, ul, h4 {
-	font-family: Arial Narrow, sans-serif;
+	font-family: ArialNarrow, sans-serif;
 	margin-left: 15%;	
     	margin-right: 15%;
 }
@@ -45,7 +45,7 @@ p, ul, h4 {
 table {
     	width: 75%;
     	text-align: justify;
-	font-family: Arial Narrow, sans-serif;
+	font-family: ArialNarrow, sans-serif;
 	page-break-after: auto;
     	margin-left:18%; 
     	margin-right:18%;
