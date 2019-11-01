@@ -12,39 +12,39 @@ body {
 }
 
 h1 {
-    text-align: center;
-    font-family: Bookman, URW Bookman L, serif;
+	text-align: center;
+	font-family: Bookman, URW Bookman L, serif;
 }
 
 h2 {
-    margin-left: 141px;	
-    padding-right: 141px;
-    text-align: justify;
+	margin-left: 141px;
+	padding-right: 141px;
+	text-align: justify;
 	font-family: OCR A Std, monospace;
 }
 
 p {
-    margin-left: 141px;	
-    padding-right: 141px;
-    text-align: justify;
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	margin-left: 141px;	
+	padding-right: 141px;
+	text-align: justify;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 ul {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    margin-left: 141px;
-    padding-right: 141px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	margin-left: 141px;
+	padding-right: 141px;
 }
 
 div {
-    text-align: center;
+	text-align: center;
 }
 
 table {
-    width: 1000px;
-    text-align: center;
-    margin-left:auto; 
-    margin-right:auto;
+	width: 1000px;
+	text-align: center;
+	margin-left:auto; 
+	margin-right:auto;
 }
 
 th {
